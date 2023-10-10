@@ -1,1 +1,1 @@
-# mate--git-and-terminal-basics
+# Git And Terminal basics
